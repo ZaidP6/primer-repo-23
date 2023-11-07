@@ -1,3 +1,2 @@
-# Encabezado
-  # primer-repo-23
-  Primer repositorio creado
+# primer-repo-23
+Primer repositorio creado
