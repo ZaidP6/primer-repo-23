@@ -1,3 +1,3 @@
 # primer-repo-23
-Primer repositorio creado
-Y modificado el readme
+Primer repositorio que he creado
+Y modificado el readme para actualizar el título
